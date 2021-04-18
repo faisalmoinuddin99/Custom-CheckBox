@@ -1,0 +1,22 @@
+{
+  "name": "customcheckbox",
+  "version": "1.0.0",
+  "description": "Server to serve static files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalmoinuddin99/Custom-CheckBox.git"
+  },
+  "author": "faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisalmoinuddin99/Custom-CheckBox/issues"
+  },
+  "homepage": "https://github.com/faisalmoinuddin99/Custom-CheckBox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
